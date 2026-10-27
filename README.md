@@ -22,8 +22,10 @@ Splunk / SPL · Windows Event Logs & Sysmon · Phishing triage · MITRE ATT&CK �
 - [incident-investigations](https://github.com/bananaa099/incident-investigations) - SOC alert triage and incident writeups (Will be updated)
 - [detection-rules](https://github.com/bananaa099/detection-rules) - Splunk detection rules (Will be updated)
 - [attack-detection-cases](https://github.com/bananaa099/attack-detection-cases) - attacks run in my lab and how they look in the logs (Will be updated)
+- [python-scripts](https://github.com/bananaa099/python-scripts) - small Python tools for SOC work (VirusTotal IOC checker)
+
 
 ## Contact
+- [LinkedIn](https://www.linkedin.com/in/hashim-nasirzade/)
 - [TryHackMe](https://tryhackme.com/p/bananaa099)
 - [HackTheBox](https://profile.hackthebox.com/profile/019e737b-de15-729f-ac96-5b8f05337afd)
-- [GitHub](https://github.com/bananaa099)
