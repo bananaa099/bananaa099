@@ -1,8 +1,11 @@
 # Hi, I'm Hashim
 
-Learning cybersecurity and working toward a Junior SOC Analyst role. Preparing for CompTIA Security+ and doing hands-on practice on TryHackMe.
+CompTIA Security+ certified and working toward a Junior SOC Analyst role. Doing hands-on practice on TryHackMe and HackTheBox.
 
-I learn by doing - building a lab, investigating alerts, and writing things up instead of just collecting certificates.
+I learn by doing - building a lab, investigating alerts, and writing things up, not just collecting certificates.
+
+## Certifications
+- CompTIA Security+ (SY0-701) - Nov 2026
 
 ## What I've done
 - Built a Splunk home lab (Ubuntu + Windows with Sysmon and a forwarder) and ran attack simulations against it
@@ -13,7 +16,7 @@ I learn by doing - building a lab, investigating alerts, and writing things up i
 Splunk / SPL · Windows Event Logs & Sysmon · Phishing triage · MITRE ATT&CK · Incident reporting
 
 ## Currently working on
-- CompTIA Security+ (SY0-701)
+- Blue Team Level 1 (BTL1)
 - TryHackMe SOC Level 1
 - HackTheBox Sherlocks
 
@@ -23,7 +26,6 @@ Splunk / SPL · Windows Event Logs & Sysmon · Phishing triage · MITRE ATT&CK �
 - [detection-rules](https://github.com/bananaa099/detection-rules) - Splunk detection rules (Will be updated)
 - [attack-detection-cases](https://github.com/bananaa099/attack-detection-cases) - attacks run in my lab and how they look in the logs (Will be updated)
 - [python-scripts](https://github.com/bananaa099/python-scripts) - small Python tools for SOC work (VirusTotal IOC checker)
-
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/hashim-nasirzade/)
