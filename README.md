@@ -31,3 +31,6 @@ Splunk / SPL · Windows Event Logs & Sysmon · Phishing triage · MITRE ATT&CK �
 - [LinkedIn](https://www.linkedin.com/in/hashim-nasirzade/)
 - [TryHackMe](https://tryhackme.com/p/bananaa099)
 - [HackTheBox](https://profile.hackthebox.com/profile/019e737b-de15-729f-ac96-5b8f05337afd)
+
+## Certifications
+- [CompTIA Security+ (SY0-701)](https://www.credly.com/badges/a0449d21-fe3f-4c9a-9a7a-e89d73c971b2) - Nov 2026
